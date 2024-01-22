@@ -1,0 +1,27 @@
+.Card {
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  padding: 2rem;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5em;
+  width: fit-content;
+  background-color: #ffffffca;
+  position: relative;
+  z-index: 1000;
+  margin: auto;
+}
+
+.Main {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  padding: 6rem;
+  min-height: 100vh;
+
+  @media (max-width: 768px) {
+    padding: 1em;
+  }
+}
