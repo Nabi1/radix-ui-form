@@ -1,6 +1,6 @@
 # Project README
 
-📬 [Live Demo of the App](https://radix-ui-form.vercel.app/)
+📬 [Live Demo of the App](https://radix-form.vercel.app/)
 
 The application has been deployed and is live.
 
